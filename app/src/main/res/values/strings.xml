@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DAMFlix</string>
+
+    <string name="desc_avatar">Foto de perfil</string>
+    <string name="nombre_alumno">Fernan</string>
+    <string name="rol_usuario">Crítico de Cine</string>
+    <string name="estadistica_pelis">42 Películas Vistas</string>
+    <string name="estadistica_resenas">12 Reseñas</string>
+</resources>
